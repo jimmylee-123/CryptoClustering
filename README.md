@@ -86,7 +86,7 @@ Use the following steps to cluster the cryptocurrencies for the best value for k
  
 ## Source Code Location
 
-* The source code files Are located in the root directory.
+* The source code files are located in the root directory.
 
 ## Acknowledgments
 
